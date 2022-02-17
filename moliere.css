@@ -1,0 +1,26 @@
+.speech{
+    size: 24px;
+    color: black;
+}
+.direction{
+    size: 24px;
+    color: black;
+    background-color: lightsteelblue;
+}
+.direction:hover{
+    color: white;
+    background-color: darkgreen;
+}
+.name{
+    size: 24px;
+    color: black;
+}
+.PHILAMINTE{
+    color: green;
+}
+.ARMANDE{
+    color: blue
+}
+.CLITANDRE{
+    color: red;
+}
